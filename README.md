@@ -1,11 +1,11 @@
 # Projeto E-commerce Vuex
 
 ## Tecnologias utilizadas
-> Vue.js 3
-> VueX
-> Vue Router
-> Axios
-> SCSS
+> Vue.js 3 -
+> VueX -
+> Vue Router -
+> Axios -
+> SCSS -
 
 ![image](https://github.com/user-attachments/assets/272065c6-39c1-42eb-b306-0faed7036136)
 
