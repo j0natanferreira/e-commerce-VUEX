@@ -1,7 +1,7 @@
 # Projeto E-commerce Vuex
 
 ## Page
-[www.e-commerce-vuex.vercel.app/#/]
+www.e-commerce-vuex.vercel.app/#/
 
 ## Tecnologias utilizadas
 > Vue.js 3
