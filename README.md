@@ -1,7 +1,8 @@
 # Projeto E-commerce Vuex
 
 ## Tecnologias utilizadas
-> Vue.js 3 -
+> Vue.js 3
+> 
 > VueX -
 > Vue Router -
 > Axios -
